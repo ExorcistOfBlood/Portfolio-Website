@@ -186,6 +186,10 @@ section {
   cursor: pointer;
 }
 
+.btn a {
+  color: #fff;
+}
+
 .btn:hover {
   background-position: right center;
   color: #fff;
@@ -211,6 +215,10 @@ section {
   /* align-items: center;
   justify-content: center; */
   gap: 1rem;
+}
+
+.socials a {
+  color: black;
 }
 
 .socials i {
